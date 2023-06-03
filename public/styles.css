@@ -1,0 +1,190 @@
+/* .card-body img{
+    outline: 1px solid limegreen;
+    background-color: rgb(0, 100, 0, 0.1);
+} */
+.navigation{
+    background-color: white !important;
+}
+.custom-nav{
+    margin-left: 10rem;
+}
+.custom-nav2 a{
+    color: black !important;
+}
+span{
+    color: #006aff;
+    font-weight: 700;
+}
+.down-text{
+    padding: 1.5rem;
+}
+.first2-container1 h3{
+    font-size: 3.7rem;
+    font-weight:700;
+    margin-right: 4rem;
+    margin-top: 0;
+    border: solid white;
+}
+.custom-container1{
+    margin-top: 10rem;
+}
+.first-container2 h4{
+    font-size: 2.3rem;
+    font-weight: 800;
+}
+.first-container2 h3{
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+.first-container1 h3{
+    font-size: 4rem;
+    font-weight:700;
+    margin-right: 4rem;
+    margin-top: 0;
+    border: solid white;
+}
+.second-container1 img{
+    height: 30rem;
+    width: 100%;
+
+    
+}
+.custom-form{
+    margin-top: 2rem;
+    width: 17rem !important;
+    border: 0.001in solid white;
+    box-shadow: 0 0 10px rgb(123, 111, 111);
+    border-radius: 13rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    place-items: center;
+}
+.cst{
+    border: none !important;
+    background-clip: content-box !important;
+    box-sizing: border-box;
+}
+.custom-container{
+    background-image: url(https://images.ctfassets.net/k0lk9kiuza3o/41lq28noewrKzn6B9AXh1I/636e53047ab81e34ee6862ff822448f5/Calendly_CTA_bg__1_.png);
+    background-size: contain;
+
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    color: white;
+}
+.cst1{
+    border-radius: 13rem !important;
+    background-color: black !important;;
+    color: white;
+    box-shadow: ;
+}
+.cst2{
+    border-radius: 13rem !important;
+    border: solid blue 2px;
+    background-color: blue !important;;
+    color: white;
+    font-weight: 700;
+    width: 200px;
+}
+.down-text{
+    margin-top: -1rem;
+    box-sizing: border-box;
+}
+.cst3{
+    border-radius: 13rem !important;
+    border: black 2px solid !important;
+    background-color: white !important;;
+    color: black;
+    font-weight: 700;
+    width: 200px;
+}
+
+
+.custom-footer{
+    margin-top: 12rem;
+    width: 50rem;
+    background-color: #fbfbfb;
+    height: auto;
+    margin-bottom: 4rem;
+    
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    place-items: center;
+}
+.custom-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    place-items: center;
+}
+.rowww{
+    padding-bottom: 3rem;
+}
+.roww{
+    margin-top: 4rem;
+}
+.custom-card{
+    position: relative;
+    border-radius: 29px;
+    border: none;
+    min-height: 230px;
+    box-shadow: 0 0 5px rgb(171, 167, 167);
+}
+.custom-title{
+}
+.numbering{
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* border: solid 2px red; */
+    width: 24px;
+    height: 24px;
+    border-radius: 12px;
+    background-color: #006aff;
+    color: white;
+    font-weight: 600;
+}
+.roww img{
+    height: 300px;
+}
+.custom-row4 ul{
+    list-style: none;
+}
+.photos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.photos img{
+    width: 50%;
+    height: auto !important; 
+    aspect-ratio: 3/2;
+    object-fit: contain;
+}
+.custom-row4 h6{
+    margin-top: 10px;
+}
+.photo img{
+    width: 70%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: lighten;
+}
+.card-body img{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
+.custom-card p{
+    font-weight: 600;
+}
+
+.firstContainerh3 {
+    color: #006aff; 
+    margin-top: -16px; 
+    box-sizing:border-box
+}
